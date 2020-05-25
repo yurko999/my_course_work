@@ -1,0 +1,308 @@
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.exe
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.deps.json
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.runtimeconfig.json
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.runtimeconfig.dev.json
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.pdb
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.csprojAssemblyReference.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\staticwebassets\Publication.StaticWebAssets.Manifest.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\staticwebassets\Publication.StaticWebAssets.xml
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.AssemblyInfoInputs.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.AssemblyInfo.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.RazorTargetAssemblyInfo.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.dll
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.pdb
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.csproj.CopyComplete
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.Views.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Publication.Views.pdb
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.RazorAssemblyInfo.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.RazorAssemblyInfo.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.TagHelpers.input.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.TagHelpers.output.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.RazorCoreGenerate.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Book\List.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.RazorTargetAssemblyInfo.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.Views.pdb
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\Json.dll
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllBooks.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Програмування\Програми VS\Publication\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\PublicationCart\Index.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Item\OpenItem.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Publication.MvcApplicationPartsAssemblyInfo.cache
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registration.cshtml.g.cs
+D:\Програмування\Програми VS\Publication\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.exe
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.deps.json
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.runtimeconfig.json
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.runtimeconfig.dev.json
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.pdb
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.Views.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Publication.Views.pdb
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Json.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Publication-WEB-Project-master\Publication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.csprojAssemblyReference.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.csproj.CoreCompileInputs.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.MvcApplicationPartsAssemblyInfo.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.RazorAssemblyInfo.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.RazorAssemblyInfo.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.AssemblyInfoInputs.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.AssemblyInfo.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.TagHelpers.input.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.TagHelpers.output.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.RazorCoreGenerate.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registration.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Book\List.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Item\OpenItem.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\PublicationCart\Index.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllBooks.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.RazorTargetAssemblyInfo.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.RazorTargetAssemblyInfo.cs
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.Views.pdb
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.csproj.CopyComplete
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\staticwebassets\Publication.StaticWebAssets.Manifest.cache
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\staticwebassets\Publication.StaticWebAssets.xml
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.dll
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.pdb
+D:\Publication-WEB-Project-master\Publication\obj\Debug\netcoreapp3.1\Publication.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+﻿.fixed-top {
+    padding: 5px 16px;
+}
+
+.login {
+    margin: auto 0;
+    color: rgba(255,255,255,.5);
+}
+
+.login .avatar {
+    height: 20px;
+}
+
+.login-button {
+    text-decoration: underline;
+}
+
+.login a {
+    color: inherit;
+}
+
+.login a:hover {
+    color: whitesmoke;
+}
+
+.login .header-greeting {
+    color: whitesmoke;
+}

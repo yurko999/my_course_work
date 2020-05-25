@@ -1,0 +1,13 @@
+﻿@model BookListViewModel
+
+<div class="container list-block">
+    <h1> @Model.CurrentText</h1>
+    <div class="row mt-2 mb-2 book-list">
+        @{
+            foreach (Book book in @Model.AllBooks)
+            {
+                @Html.Partial("AllBooks", book);
+            }
+        }
+    </div>
+</div>

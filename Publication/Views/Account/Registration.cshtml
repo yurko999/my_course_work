@@ -1,0 +1,61 @@
+﻿@model AccountViewModel
+
+<div class="registration-block d-flex align-items-center">
+    <div class="container">
+        <div class="d-flex justify-content-center h-100">
+            <div class="registration-main card">
+                <div class="card-header">
+                    <h3>Реєстрація</h3>
+                </div>
+                <div class="card-body">
+                    <div class="d-flex justify-content-end social-icon">
+                        <span><i class="fab fa-facebook-square"></i></span>
+                        <span><i class="fab fa-google-plus-square"></i></span>
+                        <span><i class="fab fa-twitter-square"></i></span>
+                    </div>
+                    <form asp-action="Registration" method="post">
+                        <span asp-validation-for="Login" class="text-danger"></span>
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-user"></i></span>
+                            </div>
+                            <input asp-for="Login" type="text" class="form-control" placeholder="логін">
+                        </div>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                            </div>
+                            <input asp-for="Email" type="text" class="form-control" placeholder="електронна пошта">
+                        </div>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-key"></i></span>
+                            </div>
+                            <input asp-for="Password" type="password" class="form-control" placeholder="пароль">
+                        </div>
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-key"></i></span>
+                            </div>
+                            <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="підтвердження паролю">
+                        </div>
+                        <div class="row align-items-center remember links">
+                            <input type="checkbox">Я погоджуюся з &nbsp;<a href="#"> угодою користувача</a>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Зареєструватися" class="btn float-right registration-btn">
+                        </div>
+                    </form>
+                </div>
+                <div class="card-footer">
+                    <div class="d-flex justify-content-center links">
+                        Вже зареєстровані?<a asp-controller="Account" asp-action="Login">Увійти</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

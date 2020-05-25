@@ -1,0 +1,73 @@
+﻿@model HomeViewModel
+
+<div class="publication-logo mb-3">
+    <p class="greeting">
+        Вас вітає видавництво <span class="logo">Collapsing Star</span>
+    </p>
+    <div class="card-group features">
+        <div class="card">
+            <div class="row no-gutters">
+                <div class="col-auto">
+                    <img src="~/img/icons/delivery.png" class="img-fluid" alt="" />
+                </div>
+                <div class="col">
+                    <div class="card-block px-2">
+                        <h5 class="card-title">Швидка Доставка</h5>
+                        <p class="card-text">Ваше замовлення буде доставлене протягом 1 тижня залежно від вашого регіону.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="row no-gutters">
+                <div class="col-auto">
+                    <img src="~/img/icons/order.png" class="img-fluid" alt="" />
+                </div>
+                <div class="col">
+                    <div class="card-block px-2">
+                        <h5 class="card-title">Плати Просто</h5>
+                        <p class="card-text">Платіть за допомогою картки при покупці або коли забираєте товар.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="row no-gutters">
+                <div class="col-auto">
+                    <img src="~/img/icons/tag.png" class="img-fluid" alt="" />
+                </div>
+                <div class="col">
+                    <div class="card-block px-2">
+                        <h5 class="card-title">Найкращі Ціни</h5>
+                        <p class="card-text">Найвигідніші пропозиції тільки від нашого видавництва.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="row no-gutters">
+                <div class="col-auto">
+                    <img src="~/img/icons/shield.png" class="img-fluid" alt="" />
+                </div>
+                <div class="col">
+                    <div class="card-block px-2">
+                        <h5 class="card-title">Безпечна оплата</h5>
+                        <p class="card-text">У разі помилки видавництво відшкодує усі ваші втрачені кошти.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <h2 class="book-list-name"> Книжки нашого видавництва: </h2>
+    <div class="row mt-2 mb-2 book-list">
+        @{
+            foreach (Book book in @Model.AllBooks)
+            {
+                @Html.Partial("AllBooks", book);
+            }
+        }
+    </div>
+</div>

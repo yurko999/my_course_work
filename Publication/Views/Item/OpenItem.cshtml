@@ -1,0 +1,52 @@
+﻿@model BookViewModel
+
+<div class="list-block book-place">
+    <div class="container">
+        <div class="d-flex justify-content-center">
+            <div class="card">
+                <div class="card-header">
+                    <h3>@Model.Book.Name</h3>
+                </div>
+                <div class="card-body row">
+                    <div class="col-md-4 col-12">
+                        <img class="book-img" src="@Model.Book.Image" />
+                    </div>
+                    <div class="col-md-8 col-12 info-place">
+                        <h6 class="card-subtitle"><a asp-controller="Home" asp-action="Index">Головна</a> / <a asp-controller="Book" asp-action="List" asp-route-category="@Model.Book.Category.CategoryLink">@Model.Book.Category.CategoryName</a> / @Model.Book.Name</h6>
+                        <h3 class="card-title"><span class="book-price">@string.Format("{0:C}", @Model.Book.Price)</span></h3>
+                        <div class="btn-danger book-btn mb-2" style="border:solid; border-color: #dc3545;">
+                            <!-- "Add to cart" button -->
+                            <a style="stroke: whitesmoke" class="cart-button" asp-controller="PublicationCart" asp-action="AddToCart" asp-route-id="@Model.Book.Id">
+                                <svg height="22" width="22">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-header-basket">
+                                        <svg viewBox="0 0 24 22" id="icon-header-basket">
+                                            <path d="M0 1 L3 1 L6 13.3 L19 13.3 L21 5 L4 5 L7 17 L19 17"></path>
+                                            <circle cx="7" cy="20" r="2"></circle>
+                                            <circle cx="18" cy="20" r="2"></circle>
+                                        </svg>
+                                    </use>
+                                </svg>
+                                <span style="color: whitesmoke;">Додати в кошик</span>
+                            </a>
+                        </div>
+                        <div class="btn-light book-btn" style="border:solid; border-color: #fcc10a;">
+                            <!-- "Add to favourites" button -->
+                            <a class="wish-button" asp-controller="PublicationCart" asp-action="AddToCart" asp-route-id="@Model.Book.Id">
+                                <svg height="22" width="22">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-favorites">
+                                        <svg viewBox="0 0 24 22" id="icon-favorites">
+                                            <path d="M11.3022 2.72346 L12.0004 3.40422 L12.6985 2.72332 C13.7846 1.66396 15.276 1 16.9387 1 C20.3433 1 23 3.75848 23 7.03761 C23 8.77432 22.2631 10.3504 21.0666 11.4595 L21.0516 11.4734 L21.0372 11.4879 L11.9982 20.5815 L2.90797 11.4364 L2.89728 11.4256 L2.88627 11.4152 C1.71766 10.3087 1 8.75166 1 7.03761 C1 3.75848 3.65669 1 7.06134 1 C8.72443 1 10.2154 1.66391 11.3022 2.72346 Z"></path>
+                                        </svg>
+                                    </use>
+                                </svg>
+                                <span style="color: #fcc10a;">Додати до улюблених</span>
+                            </a>
+                        </div>
+                        <hr />
+                        <p>@Model.Book.LongDescription</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,65 @@
+﻿.publication-logo {
+    background-image: url("/img/backgrounds/HomeWallpaper.jpg");
+    margin: 50px auto 0;
+    box-shadow: 0 5px 5px rgba(57, 63, 72, 0.5);
+}
+
+.publication-logo p {
+    margin: 0;
+}
+
+.greeting {
+    background-color: rgba(0, 0, 0, .5);
+    color: whitesmoke;
+    text-align: center;
+    padding: 60px 0 4rem;
+    font-size: 36px;
+}
+
+.features img {
+    margin: 15px auto;
+    width: 60px;
+}
+
+.features .card {
+    background-color: rgba(0, 0, 0, .5);
+    color: whitesmoke;
+}
+
+.logo {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+@media (max-width: 576px) {
+    .greeting {
+        padding: 5px 0 10px 0;
+        font-size: 18px;
+    }
+
+    .logo {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .features img {
+        margin: 7px auto;
+        width: 30px;
+    }
+
+    .features .card {
+        margin: 3px 20%;
+    }
+
+    .features .card-title {
+        font-size: 14px;
+    }
+
+    .features .card-text {
+        font-size: 12px;
+    }
+
+    .book-list-name {
+        font-size: 1.8rem;
+    }
+}

@@ -1,0 +1,67 @@
+﻿.book-item .card {
+    font-size: 14px;
+}
+
+.book-item .card-img-top {
+    height: 250px;
+}
+
+.book-item .card-img {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+.book-item .card-title {
+    font-size: 16px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.book-item .card-body .card-text {
+    display: none;
+}
+
+.book-item .card:hover .card-body .card-text {
+    display: block;
+}
+
+.book-item .card:hover .card-title {
+    white-space: normal;
+    overflow: visible;
+}
+
+.price {
+    font-size: 20px;
+}
+
+.book-item .card:hover {
+    margin-top: -.60rem;
+    margin-bottom: .60rem;
+    position: absolute;
+    z-index: 1;
+}
+
+.book-item .card-footer {
+    padding: 6px 18px;
+}
+
+.wish-button {
+    border: none;
+    background-color: transparent;
+    vertical-align: middle;
+    stroke: #fcc10a;
+    stroke-width: 2px;
+    fill: transparent;
+}
+
+.cart-button {
+    border: none;
+    background-color: transparent;
+    vertical-align: middle;
+    stroke: #808080;
+    stroke-width: 2px;
+    fill: transparent;
+}

@@ -1,0 +1,42 @@
+﻿@model Book
+
+<div class="col-lg-3 col-md-4 col-6 mb-3 book-item">
+    <a asp-controller="Item" asp-action="OpenItem" asp-route-bookId="@Model.Id">
+        <div class="card shadow-sm">
+            <div class="card-img-top">
+                <img class="card-img" src="@Model.Image" />
+            </div>
+            <div class="card-body" style="color: #000">
+                <h5 class="card-title">@Model.Name</h5>
+                <p class="card-text">@Model.LongDescription</p>
+            </div>
+            <div class="card-footer bg-transparent">
+                <div class="d-flex">
+                    <a class="wish-button mr-2" href="#">
+                        <svg height="22" width="22">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-favorites">
+                                <svg viewBox="0 0 24 22" id="icon-favorites">
+                                    <path d="M11.3022 2.72346 L12.0004 3.40422 L12.6985 2.72332 C13.7846 1.66396 15.276 1 16.9387 1 C20.3433 1 23 3.75848 23 7.03761 C23 8.77432 22.2631 10.3504 21.0666 11.4595 L21.0516 11.4734 L21.0372 11.4879 L11.9982 20.5815 L2.90797 11.4364 L2.89728 11.4256 L2.88627 11.4152 C1.71766 10.3087 1 8.75166 1 7.03761 C1 3.75848 3.65669 1 7.06134 1 C8.72443 1 10.2154 1.66391 11.3022 2.72346 Z"></path>
+                                </svg>
+                            </use>
+                        </svg>
+                    </a>
+                    <a class="cart-button" asp-controller="PublicationCart" asp-action="AddToCart" asp-route-id="@Model.Id">
+                        <svg height="22" width="22">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-header-basket">
+                                <svg viewBox="0 0 24 22" id="icon-header-basket">
+                                    <path d="M0 1 L3 1 L6 13.3 L19 13.3 L21 5 L4 5 L7 17 L19 17"></path>
+                                    <circle cx="7" cy="20" r="2"></circle>
+                                    <circle cx="18" cy="20" r="2"></circle>
+                                </svg>
+                            </use>
+                        </svg>
+                    </a>
+                    <div class="ml-auto">
+                        <p class="card-text price">@Model.Price.ToString()грн</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>

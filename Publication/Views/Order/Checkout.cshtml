@@ -1,0 +1,95 @@
+﻿@model OrderViewModel
+
+<div class="order-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Оформлення замовлення</h3>
+                    </div>
+                    <div class="card-body">
+                        <form asp-action="Checkout" asp-route-order="@Model.Order" method="post" class="form-horizontal">
+                            <div class="form-row">
+                                <div class="col-md-6">
+                                    <span asp-validation-for="@Model.Order.Name" class="text-danger"></span>
+                                    <div class="input-group form-group">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                                        </div>
+                                        <input asp-for="@Model.Order.Name" class="form-control" placeholder="Ім'я" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <span asp-validation-for="@Model.Order.SurName" class="text-danger"></span>
+                                    <div class="input-group form-group">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                                        </div>
+                                        <input asp-for="@Model.Order.SurName" class="form-control" placeholder="Прізвище" />
+                                    </div>
+                                </div>
+                            </div>
+                            <span asp-validation-for="@Model.Order.Address" class="text-danger"></span>
+                            <div class="input-group form-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-map-marker-alt"></i></span>
+                                </div>
+                                <input asp-for="@Model.Order.Address" class="form-control" placeholder="Адреса" />
+                            </div>
+                            <span asp-validation-for="@Model.Order.Phone" class="text-danger"></span>
+                            <div class="input-group form-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-mobile-alt"></i></span>
+                                </div>
+                                <input asp-for="@Model.Order.Phone" class="form-control" placeholder="Мобільний телефон" />
+                            </div>
+                            <span asp-validation-for="@Model.Order.Email" class="text-danger"></span>
+                            <div class="input-group form-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                                </div>
+                                <input asp-for="@Model.Order.Email" class="form-control" placeholder="Пошта" />
+                            </div>
+                            <div class="form-group">
+                                <input class="btn login-btn float-right" type="submit" value="Завершити" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-12">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <h3>ВАШЕ ЗАМОВЛЕНЯ</h3>
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-borderless">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">ТОВАР</th>
+                                    <th scope="col">ЦІНА</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @for (int i = 0; i < @Model.PublicationCart.listPublicationItems.Count; i++)
+                                {
+                                    <tr>
+                                        <th scope="row">@(i + 1)</th>
+                                        <td>@Model.PublicationCart.listPublicationItems[i].Book.Name</td>
+                                        <td>@Model.PublicationCart.listPublicationItems[i].Price</td>
+                                    </tr>
+                                }
+                                <tr class="border-top">
+                                    <th colspan="2">ЗАГАЛОМ:</th>
+                                    <td><span class="total-price">@Model.TotalValue</span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

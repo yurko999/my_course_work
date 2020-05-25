@@ -1,0 +1,29 @@
+﻿@model PublicationCartViewModel
+
+<div class="list-block publication-cart">
+    <div class="container">
+        <div class="d-flex justify-content-center">
+            <div class="card">
+                <div class="card-header">
+                    <i class="fas fa-shopping-cart fa-2x d-inline-block"></i>
+                    <h3 class="d-inline-block"> @Model.CurrentText</h3>
+                </div>
+                <div class="card-body list-group">
+                    @foreach (var el in Model.PublicationCart.listPublicationItems)
+                    {
+                        <div class="list-group-item list-group-item-action alert-warning mb-2">
+                            <a class="item" asp-controller="Item" asp-action="OpenItem" asp-route-bookId="@el.Book.Id">
+                                <p><b>Книга:</b> @el.Book.Name</p>
+                                <p><b>Ціна:</b> @string.Format("{0:C}", el.Book.Price)</p>
+                                <a class="x-button" asp-controller="PublicationCart" asp-action="RemoveFromCart" asp-route-id="@el.Book.Id"><i class="fa fa-trash-alt" aria-hidden="true"></i></a>
+                            </a>
+                        </div>
+                    }
+                    <a class="btn btn-danger" asp-controller="Order" asp-action="Checkout">
+                        Оплатити
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

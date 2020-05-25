@@ -1,0 +1,22 @@
+﻿.book-img {
+    width: 100%;
+}
+
+.info-place .card-subtitle {
+    margin-top: 0;
+}
+
+.info-place .card-subtitle a {
+    color: black;
+}
+
+.book-btn {
+    width: 200px;
+    text-align: center;
+}
+
+.book-price {
+    font-size: 24px;
+    font-weight: 600;
+    color: forestgreen;
+}
